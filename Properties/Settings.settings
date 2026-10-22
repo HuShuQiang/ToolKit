@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="工具集合.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExcelPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BartenderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CaseCodePrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SC1TAL20230501</Value>
+    </Setting>
+    <Setting Name="CaseCodeLength" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="FirstCase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LastCase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="CaseNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="model" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DCM0505I</Value>
+    </Setting>
+    <Setting Name="dutname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">deviceName</Value>
+    </Setting>
+    <Setting Name="filepath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0505I(1).xlsx</Value>
+    </Setting>
+    <Setting Name="PrintFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Printer" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="InputRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000156O\d{6};119099351\d{6};48E533A5\w{4}</Value>
+    </Setting>
+    <Setting Name="PrintFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sw_boxno;sw_cmei_{40};sw_mac_{40}</Value>
+    </Setting>
+    <Setting Name="DecodeRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SourceFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="InputName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ScanFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SourceExcelPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IsLoop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OfflineCheckExcelPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OfflineCheckFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sn</Value>
+    </Setting>
+    <Setting Name="CheckFields_Model" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CD1</Value>
+    </Setting>
+    <Setting Name="CheckFields_Fixid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6F01Q1001</Value>
+    </Setting>
+    <Setting Name="CheckFields_Station" Type="System.String" Scope="User">
+      <Value Profile="(Default)">check_sn</Value>
+    </Setting>
+    <Setting Name="CheckFields_FieldsList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sn;LCDSN</Value>
+    </Setting>
+    <Setting Name="CheckFields_IsUploadStation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FieldRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sn=AU5638\d{6};LCDSN=.+</Value>
+    </Setting>
+    <Setting Name="DataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SN</Value>
+    </Setting>
+    <Setting Name="TagNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">72</Value>
+    </Setting>
+    <Setting Name="Character" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,</Value>
+    </Setting>
+    <Setting Name="TagRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^A5111426\d{10}$</Value>
+    </Setting>
+    <Setting Name="PrintNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CheckStation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
